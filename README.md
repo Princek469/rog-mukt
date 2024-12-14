@@ -1,4 +1,4 @@
-# Rog-Free
+# Rog-Mukt
 
 Rog-Free is a website that shows you <b>specialised</b> yoga postures for specific diseases or ailments. 
 
