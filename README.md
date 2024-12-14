@@ -30,6 +30,6 @@ Throughout the website we have tried to keep it breathable and minimalistic look
 
 # Technology
 
-<b>Languages used :</b> HTML, CSS and JAVASCRIPT
+<b>Languages used :</b> HTML, CSS and JAVASCRIPT, Firebase
 
 </br>
